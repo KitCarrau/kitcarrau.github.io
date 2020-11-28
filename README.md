@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Kit Carrau is a product manager at <a href="https://facebook.com" target="_blank">Facebook</a>. Previously building product at <a href="https://stackoverflow.com" target="_blank">Stack Overflow</a>, the <a href="https://gds.blog.gov.uk/" target="_blank">Government Digital Service</a> and engineering at <a href="https://www.weswap.com" target="_blank">WeSwap</a>
 
 You can use the [editor on GitHub](https://github.com/KitCarrau/kitcarrau.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
